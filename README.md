@@ -72,6 +72,13 @@ $ yarn
 
 # Start the expo service and scan the QR code with Expo Client
 $ yarn start
+
+# If you are going to emulate with android, run this command
+# Be sure to have the emulator open
+$ yarn android
+
+# If you are going to emulate with ios, run this command
+$ yarn ios
 ```
 
 ## 🤔 How to contribute
